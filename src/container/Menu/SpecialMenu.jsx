@@ -36,7 +36,7 @@ const SpecialMenu = () => (
     </div>
 
     <div style={{ marginTop: 15 }}>
-      <button type="button" className="custom__button">View More</button>
+    <a href="http://127.0.0.1:8000/" className='menu_tab' >View Full Menu</a>
     </div>
   </div>
 );
